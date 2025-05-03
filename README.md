@@ -1,2 +1,3 @@
 # homepage
-My first personal website. Essentially it is just a résumé
+Depricated version of the homepage, used for testing
+New version created on the purpose of having a clean commit history
